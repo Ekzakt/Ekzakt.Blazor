@@ -1,7 +1,7 @@
-﻿using Ekzakt.Blazor.Components.Base;
+﻿using Ekzakt.Blazor.Components;
 using Microsoft.AspNetCore.Components;
 
-namespace Ekzakt.Blazor;
+namespace Ekzakt.Blazor.Components;
 
 public partial class EkzaktProgressLinear : EkzaktComponentBase
 {

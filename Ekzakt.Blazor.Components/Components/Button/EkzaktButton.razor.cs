@@ -1,8 +1,7 @@
-﻿using Ekzakt.Blazor.Components.Base;
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 using System.ComponentModel;
 
-namespace Ekzakt.Blazor;
+namespace Ekzakt.Blazor.Components;
 
 public partial class EkzaktButton : EkzaktComponentBase, INotifyPropertyChanged
 {

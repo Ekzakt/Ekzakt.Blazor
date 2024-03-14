@@ -1,7 +1,6 @@
-﻿using Ekzakt.Blazor.Components.Interfaces;
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 
-namespace Ekzakt.Blazor.Components.Base;
+namespace Ekzakt.Blazor.Components;
 
 public class EkzaktComponentBase : ComponentBase, IEkzaktStateHasChanged
 {

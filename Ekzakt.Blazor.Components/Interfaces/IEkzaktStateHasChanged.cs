@@ -1,4 +1,4 @@
-﻿namespace Ekzakt.Blazor.Components.Interfaces;
+﻿namespace Ekzakt.Blazor.Components;
 
 public interface IEkzaktStateHasChanged
 {
