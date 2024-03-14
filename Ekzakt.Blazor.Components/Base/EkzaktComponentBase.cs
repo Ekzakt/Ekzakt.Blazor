@@ -1,7 +1,7 @@
-﻿using Ekzakt.Blazor.Interfaces;
+﻿using Ekzakt.Blazor.Components.Interfaces;
 using Microsoft.AspNetCore.Components;
 
-namespace Ekzakt.Blazor;
+namespace Ekzakt.Blazor.Components.Base;
 
 public class EkzaktComponentBase : ComponentBase, IEkzaktStateHasChanged
 {
@@ -20,5 +20,5 @@ public class EkzaktComponentBase : ComponentBase, IEkzaktStateHasChanged
 
 
     /// <inheritdoc/>
-    void IEkzaktStateHasChanged.StateHasChanged() => base.StateHasChanged();
+    void IEkzaktStateHasChanged.StateHasChanged() => StateHasChanged();
 }

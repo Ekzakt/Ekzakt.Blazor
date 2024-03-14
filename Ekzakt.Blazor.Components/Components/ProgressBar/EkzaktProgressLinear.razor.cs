@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Components;
+﻿using Ekzakt.Blazor.Components.Base;
+using Microsoft.AspNetCore.Components;
 
 namespace Ekzakt.Blazor;
 
