@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekzakt.Blazor", "Ekzakt.Blazor\Ekzakt.Blazor.csproj", "{BDDECB78-F6E3-43B0-8065-722A5730A97B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ekzakt.Blazor.Components", "Ekzakt.Blazor.Components\Ekzakt.Blazor.Components.csproj", "{685FEE58-E252-4A39-9DA3-4725190A1D0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BDDECB78-F6E3-43B0-8065-722A5730A97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDDECB78-F6E3-43B0-8065-722A5730A97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDDECB78-F6E3-43B0-8065-722A5730A97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDDECB78-F6E3-43B0-8065-722A5730A97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685FEE58-E252-4A39-9DA3-4725190A1D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685FEE58-E252-4A39-9DA3-4725190A1D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685FEE58-E252-4A39-9DA3-4725190A1D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685FEE58-E252-4A39-9DA3-4725190A1D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
